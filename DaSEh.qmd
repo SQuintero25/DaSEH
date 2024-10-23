@@ -1,0 +1,15 @@
+---
+title: "DaSEH"
+format: html
+editor: visual
+---
+
+```{r}
+#notes for classes 
+
+
+install.packages("naniar")
+library(naniar)
+
+```
+
